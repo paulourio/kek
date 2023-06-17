@@ -1,1 +1,1 @@
-8168ab38-32b4-59e7-7376-6d81794b98d9
+writeln('Go is Awesome!!!')
